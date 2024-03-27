@@ -9,7 +9,7 @@ Ini adalah Template Web **HTML** dan **CSS**. Gunakan sesuai petunjuk yang diber
 ## DEMO
 Klik link  [Github Page](dinamis-paw1-marcooo310/tree/main) berikut ini
 
-## Cara Closing Project
+## Cara Cloning Project
 Jalankan perintah `git clone urgithub`
 
 ## Developer
